@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189631074731",
+    "firebase_url": "https://task-handler-app.firebaseio.com",
+    "project_id": "task-handler-app",
+    "storage_bucket": "task-handler-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189631074731:android:a1a066ff527609bbb942ee",
+        "android_client_info": {
+          "package_name": "com.kagiso.mytaskhandler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189631074731-qd4msudlgv8tbsgbfe4cd7hff8je00vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Tre7tGuMsBcfIwCtFYkOtSn04iHDAz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189631074731-qd4msudlgv8tbsgbfe4cd7hff8je00vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
